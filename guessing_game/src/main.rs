@@ -1,3 +1,4 @@
+extern crate rand;
 use rand::Rng;
 use std::{cmp::Ordering, io};
 
